@@ -1,4 +1,4 @@
 server:
   port: 8082
 
-message: This is a message from the prod profile.
+message: Hello from the other side!
